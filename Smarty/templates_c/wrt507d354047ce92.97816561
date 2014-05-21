@@ -1,0 +1,28 @@
+<?php /* Smarty version Smarty-3.1.11, created on 2012-10-16 10:21:52
+         compiled from "F:\htdocs\xydd\templates\footer.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:8493507d354047a0b4-15456676%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '06787b12658a9e67ed275f189eb03782614c6626' => 
+    array (
+      0 => 'F:\\htdocs\\xydd\\templates\\footer.tpl',
+      1 => 1346857029,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '8493507d354047a0b4-15456676',
+  'function' => 
+  array (
+  ),
+  'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.11',
+  'unifunc' => 'content_507d354047c903_86648310',
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_507d354047c903_86648310')) {function content_507d354047c903_86648310($_smarty_tpl) {?>    <div data-role="footer" data-theme="d"> 
+            <h3>©2012 Phrief WYU</h3> 
+        </div><!-- /footer --> 
+    </div><!-- /page one -->
+
+</body>
+</html><?php }} ?>

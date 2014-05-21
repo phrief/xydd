@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<admins>
+	<admin>
+		<username>phrief</username>
+		<userpass>phrief</userpass>
+		<sex>0</sex>
+		<college>2</college>
+		<avatar>2</avatar>
+	</admin>
+	<admin>
+		<username>c</username>
+		<userpass>c</userpass>
+		<sex>1</sex>
+		<college>3</college>
+		<avatar>5</avatar>
+	</admin>
+	<admin>
+		<username>mason</username>
+		<userpass>mason</userpass>
+		<sex>2</sex>
+		<college>4</college>
+		<avatar>7</avatar>
+	</admin>
+</admins>
